@@ -5,9 +5,9 @@ This project is referenced from [https://github.com/deep-diver/CIFAR10-img-class
 
 To demo this project, make sure your enviroment has Python3 as well as the neccessarry libraries, such as tensorflow, tqdm, etc...
 Then, if you are using mac, make sure to use Python3 by doing
-'''
+```
 python3 CIFAR10_image_classification.py
-'''
+```
 
 The python scipt should then run, first downloading the CIFAR-10 dataset from an online URL into your local repo. Next, it will evaluate the dataset and print out informative statistics about it. Lastly, it will pre-process and load the data in order to train the neural network.
 
