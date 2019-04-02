@@ -11,5 +11,6 @@ python3 CIFAR10_image_classification.py
 
 The python scipt should then run, first downloading the CIFAR-10 dataset from an online URL into your local repo. Next, it will evaluate the dataset and print out informative statistics about it. Lastly, it will pre-process and load the data in order to train the neural network.
 
-In the end, the neural network should be able to classify images with an accuracy of over 50%. Exampels are shown below.
+In the end, the neural network should be able to classify images with an accuracy of over 50%. Examples are shown below.
+
 <img src="./prediction.PNG" alt="Drawing"/>
